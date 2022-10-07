@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 #endif
 
     frmMain w;
-    w.setWindowTitle("样式表示例 (QQ: 517216493 WX: feiyangqingyun)");
+    w.setWindowTitle("样式表示例 (Email: 2441164168+lhd+@gmail.com)");
     w.show();    
 
     return a.exec();

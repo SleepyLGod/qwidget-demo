@@ -225,7 +225,7 @@ void GifWidget::initControl()
     layoutBottom->addWidget(btnStart);
     verticalLayout->addWidget(widgetBottom);
 
-    labTitle->setText("GIF录屏工具(QQ:517216493)");
+    labTitle->setText("GIF录屏工具(QQ:2441164168)");
     labFps->setText("帧率");
     labWidth->setText("宽度");
     labHeight->setText("高度");

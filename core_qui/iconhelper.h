@@ -2,7 +2,7 @@
 #define ICONHELPER_H
 
 /**
- * 超级图形字体类 作者:feiyangqingyun(QQ:517216493) 2016-11-23
+ * 超级图形字体类 
  * 1. 可传入多种图形字体文件，一个类通用所有图形字体。
  * 2. 默认已经内置了阿里巴巴图形字体FontAliBaBa、国际知名图形字体FontAwesome、天气图形字体FontWeather。
  * 3. 可设置 QLabel、QAbstractButton 文本为图形字体。
