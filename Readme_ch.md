@@ -1,58 +1,55 @@
-## Illustration
+# 说明
 
-> **👀** *This is a personal learning project. 
-> It is **not purely handwritten** by myself, but has been **edited and greatly revised** by myself.*
-> 
-> ***Salute to [**Mr.6.5**](https://github.com/feiyangqingyun).***
+> ❗❗❗ 个人学习项目，**非纯本人手写**，而是经过本人整理、魔改完成，致敬 [**Mr.6.5**](https://github.com/feiyangqingyun)。
 
-+ You can choose to compile it once in `QWidgetDemo.pro`, or you can enter the directory to open the `.pro` file for compilation;
-+ If the subproject is not loaded, please check the comments in `QWidgetDemo.pro`;
-+ The compiled executable file is in the bin directory of the same level as the source code;
-+ Currently *Qt5* and *Qt6.2* versions are available;
-+ Win, linux, mac, uos and other systems can run freely;
+1. **可选择在QWidgetDemo.pro中一次性编译，也可以进入到目录下打开.pro文件进行编译；**
+2. **若子项目未加载，请查看QWidgetDemo.pro中的注释；**
+3. **编译好的可执行文件在源码同级目录下的bin目录；**
+4. **目前Qt5和Qt6.2版本可用；**
+5. **win、linux、mac、uos等系统可尽情食用；**
 
-|Number| Folder              |              **Description**                                     |
-| ---- | ------------------- | -----------------------------------------------------------------|
-| 1    | lightbutton         | Highlight button control                                         |
-| 2    | movewidget          | Generic widget moving class                                      |
-| 3    | flatui              | mimics the flatui class                                          |
-| 4    | countcode           | Code Statistics Component                                        |
-| 5    | gifwidget           | Screen Recording Controls                                        |
-| 6    | comtool             | Serial debugging assistant                                       |
-| 7    | nettool             | Network debugging assistant                                      |
-| 8    | devicesizetable     | Hard Disk Capacity Control                                       |
-| 9    | styledemo           | High imitation PS black + flat white + light blue style theme    |
-| 10   | navbutton           | Navigation Button Control                                        |
-| 11   | videopanel          | Video surveillance screen segmentation demo                      |
-| 12   | framelesswidget     | Cross-platform borderless form                                   |
-| 13   | ipaddress           | IP address input control                                         |
-| 14   | bgdemo              | Transparent form without border background                       |
-| 15   | dbpage              | General database page query                                      |
-| 16   | pngtool             | PNG image warning removal tool                                   |
-| 17   | savelog             | Log redirection output class                                     |
-| 18   | saveruntime         | Runtime record class                                             |
-| 19   | colorwidget         | Color Picker                                                     |
-| 20   | maskwidget          | Mask layer window                                                |
-| 21   | battery             | Battery Level Controls                                           |
-| 22   | lineeditnext        | Text box carriage return focus down                              |
-| 23   | zhtopy              | Chinese characters to Pinyin                                     |
-| 24   | qwtdemo             | The source code version of qwt, no need for plug-ins, you can directly integrate the source code into your project |
-| 25   | devicebutton        | Device button map effect                                         |
-| 26   | mouseline           | Mouse Positioning Crosshair                                      |
-| 27   | emailtool           | Email Sending Tool                                               |
-| 28   | ntpclient           | NTP server time synchronization                                  |
-| 29   | lunarcalendarwidget | Lunar widget                                                     |
-| 30   | videowidget         | Common Video Controls                                            |
-| 31   | screenwidget        | Screenshot Controls                                              |
-| 32   | imageswitch         | Image switch control                                             |
-| 33   | echartgauge         | echart dashboard with interactive support webkit and webengine   |
-| 34   | ffmpegdemo          | video streaming ffmpeg kernel                                    |
-| 35   | vlcdemo             | video streaming vlc kernel                                       |
-| 36   | key                 | Key Generator                                                    |
-| 37   | live                | Program Daemon                                                   |
-| 38   | designer            | QtDesigner4 source code                                          |
-| 39   | netserver           | Network relay server                                             |
-| 40   | mpvdemo             | video streaming mpv kernel                                       |
-| 41   | miniblink           | miniblink example                                                |
-| 42   | base64              | Image and text base64 interchange                                |
-| 43   | smoothcurve         | smooth curve                                                     |
+| 编号 | 文件夹              | 描述                                                |
+| ---- | ------------------- | --------------------------------------------------- |
+| 1    | lightbutton         | 高亮按钮控件                                        |
+| 2    | movewidget          | 通用控件移动类                                      |
+| 3    | flatui              | 模仿flatui类                                        |
+| 4    | countcode           | 代码统计组件                                        |
+| 5    | gifwidget           | 屏幕录制控件                                        |
+| 6    | comtool             | 串口调试助手                                        |
+| 7    | nettool             | 网络调试助手                                        |
+| 8    | devicesizetable     | 硬盘容量控件                                        |
+| 9    | styledemo           | 高仿PS黑色+扁平白色+淡蓝色风格主题                  |
+| 10   | navbutton           | 导航按钮控件                                        |
+| 11   | videopanel          | 视频监控画面分割demo                                |
+| 12   | framelesswidget     | 跨平台无边框窗体                                    |
+| 13   | ipaddress           | IP地址输入控件                                      |
+| 14   | bgdemo              | 无边框背景透明窗体                                  |
+| 15   | dbpage              | 通用数据库翻页查询                                  |
+| 16   | pngtool             | PNG图片警告去除工具                                 |
+| 17   | savelog             | 日志重定向输出类                                    |
+| 18   | saveruntime         | 运行时间记录类                                      |
+| 19   | colorwidget         | 颜色拾取器                                          |
+| 20   | maskwidget          | 遮罩层窗体                                          |
+| 21   | battery             | 电池电量控件                                        |
+| 22   | lineeditnext        | 文本框回车焦点下移                                  |
+| 23   | zhtopy              | 汉字转拼音                                          |
+| 24   | qwtdemo             | qwt的源码版本，无需插件，直接源码集成到你的项目即可 |
+| 25   | devicebutton        | 设备按钮地图效果                                    |
+| 26   | mouseline           | 鼠标定位十字线                                      |
+| 27   | emailtool           | 邮件发送工具                                        |
+| 28   | ntpclient           | NTP服务器时间同步                                   |
+| 29   | lunarcalendarwidget | 农历控件                                            |
+| 30   | videowidget         | 通用视频控件                                        |
+| 31   | screenwidget        | 屏幕截图控件                                        |
+| 32   | imageswitch         | 图片开关控件                                        |
+| 33   | echartgauge         | echart仪表盘含交互支持webkit及webengine             |
+| 34   | ffmpegdemo          | 视频流播放ffmpeg内核                                |
+| 35   | vlcdemo             | 视频流播放vlc内核                                   |
+| 36   | key                 | 秘钥生成器                                          |
+| 37   | live                | 程序守护进程                                        |
+| 38   | designer            | QtDesigner4源码                                     |
+| 39   | netserver           | 网络中转服务器                                      |
+| 40   | mpvdemo             | 视频流播放mpv内核                                   |
+| 41   | miniblink           | miniblink示例                                       |
+| 42   | base64              | 图片文字base64互换                                  |
+| 43   | smoothcurve         | 平滑曲线                                            |
