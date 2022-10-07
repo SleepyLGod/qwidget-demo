@@ -2,7 +2,7 @@
 #define FLATUI_H
 
 /**
- * FlatUI辅助类 作者:feiyangqingyun(QQ:517216493) 2016-12-16
+ * FlatUI辅助类
  * 1. 按钮样式设置。
  * 2. 文本框样式设置。
  * 3. 进度条样式。

@@ -72,7 +72,7 @@
      <item row="2" column="3">
       <widget class="QLineEdit" name="txtReceiverAddr">
        <property name="text">
-        <string>feiyangqingyun@163.com;517216493@qq.com</string>
+        <string>2441164168+lhd+@gmail.com;2441164168@qq.com</string>
        </property>
       </widget>
      </item>

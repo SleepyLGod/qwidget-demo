@@ -2,7 +2,7 @@
 #define BASE64HELPER_H
 
 /**
- * base64编码转换类 作者:feiyangqingyun(QQ:517216493) 2016-12-16
+ * base64编码转换类
  * 1. 图片转base64字符串。
  * 2. base64字符串转图片。
  * 3. 字符转base64字符串。

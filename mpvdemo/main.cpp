@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 #endif
 
     Widget w;
-    w.setWindowTitle("视频流播放mpv内核 (QQ: 517216493)");
+    w.setWindowTitle("视频流播放mpv内核 (QQ: 2441164168)");
     w.show();   
 
     return a.exec();

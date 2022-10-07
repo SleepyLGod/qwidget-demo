@@ -16,7 +16,7 @@ Widget::~Widget()
 void Widget::initForm()
 {
     //设置标题栏控件
-    ui->labTitle->setText("无边框窗体示例-支持win、linux、mac等系统 (QQ: 517216493 WX: feiyangqingyun)");
+    ui->labTitle->setText("无边框窗体示例-支持win、linux、mac等系统 (Email: 2441164168+lhd+@gmail.com)");
     this->setWindowTitle(ui->labTitle->text());
     this->setTitleBar(ui->labTitle);
 
