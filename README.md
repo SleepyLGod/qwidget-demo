@@ -1,5 +1,15 @@
-# Illustration
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=25&width=245&color=46BEA3duration=6000&lines=🌈Qwidget+Demo🔧" height="80"/></br>
+    ⭐ 43 beautified Qt components that mimic CSS rendering. 🌠
+</h3>
 
+<div align="center">
+  <p>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/last-commit/SleepyLGod/qwidget-demo" alt="qwidget-demo"/></a> 
+  </p>
+</div>  
+
+> 📕 **Illustration:**
 > *This is a personal learning project. 
 > It is **not purely handwritten** by myself, but has been **edited and greatly revised** by myself.*
 > 
